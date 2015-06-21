@@ -1,0 +1,44 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    By displaying only the lines in which the differences happen.
+    Identifying any typo mistakes
+    
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    1- like the first example, it will help if there is a mistake in a latter version
+       to compare the newer one against the older one.
+    2- it will help to compare the outcomes of the newer version modification against the oleder ones
+       like the GUI and decide which one is better.
+    3- it will help if there are more than one programmer working in the same version and they want to compare their ideas and they wanna see both working.
+    4- if you decided to delete specific functions/classes and realized that it was a wrong decision
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: as it keeps track of the different versions of the same project so it needs you to manually
+          specify that I need the current version to be saved it has a lot flexibility and because you are the one who can realy decide when to commit 
+    Cons: you may forget to save a state you will need to save.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    as it mainly oriented to programmers and usually a programming project will consist of more than one related file.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    First type git log to view the history.
+    and then get the ID of the the commit that I want to view it's history
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    because I have the old version so I can do whatever changes I want and then I can get the old version back
+    using checkout operator with the ID of the most recent commit
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    i want to control versions of my future projects
