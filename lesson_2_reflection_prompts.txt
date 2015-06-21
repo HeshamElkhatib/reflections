@@ -1,7 +1,10 @@
 What happens when you initialize a repository? Why do you need to do it?
+	git creates an empty repository, to begin 'version control'ing my project
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+	it doesn't has a physical storage in disk but it is a concept that helps you do more than one operation
+	like (add file) as one commit so it will help you making every one commit really coresponds to a logical change.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
