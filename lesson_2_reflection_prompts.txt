@@ -21,3 +21,5 @@ the diagram the way we do?
 	updating a branch with all of the commites of the other 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+	pros: the project creator is the only person who can handle the complex conflicts
+	cons: it is a frustrating operation to handle the conflict yourself
