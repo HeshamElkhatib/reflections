@@ -8,11 +8,12 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-	by doing the operations required for the logical change to the staging area and then commit them all at once.
+	by doing the operations required for the logical change to the staging area and then commit them all at once.zz
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
-
+    it will help if there are more than one programmer working in the same version and they want to compare their ideas and they wanna see both working.
+    if you want to develop a prototype and want to show it to your team mates.
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
