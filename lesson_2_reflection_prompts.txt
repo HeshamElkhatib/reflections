@@ -15,7 +15,7 @@ organized? How would branches help?
     it will help if there are more than one programmer working in the same version and they want to compare their ideas and they wanna see both working.
     if you want to develop a prototype and want to show it to your team mates.
 How do the diagrams help you visualize the branch structure?
-
+	alot
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
