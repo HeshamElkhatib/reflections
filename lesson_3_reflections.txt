@@ -1,1 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local ?
+	- When you want to make your project open source and want others to contribute to your project.
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+	- When there are more than one contributers to the repository and all are modifying the same file
+	  and you want to pull changes that onyl doesn't make any conflicts.
