@@ -14,3 +14,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	- I will use for example dropbox
 		what will be easier making changes: simply I will copy the whole project and then overwrite the current version
 		what will be harder is to keep track of versions history and attach a description of the changes that we do by the time.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	- When the change you want to make doesn't represent just a newer version of the project
+	  but a another variation of the current project.
+	- When you aren't sure and the change you want to make is just an exprimental one.
+	- adding to the master is simpler
+	- making new branch helps you to do siumltaneous changes to both versions.
